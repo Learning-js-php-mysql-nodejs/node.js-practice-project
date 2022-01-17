@@ -1,5 +1,5 @@
-module.exports ={
+module.exports =[{
 
-    mobile = "samsung",
-    laptop = "asus" 
-}
+    mobile :"samsung",
+    laptop : "asus" 
+}]
